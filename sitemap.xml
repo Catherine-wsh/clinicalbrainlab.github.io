@@ -2,6 +2,9 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/software/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
     <loc>https://clinicalbrainlab.github.io/resources/info/</loc>
     <lastmod>2023-09-11T00:00:00+00:00</lastmod>
   </url><url>
@@ -20,6 +23,9 @@
     <loc>https://clinicalbrainlab.github.io/brainhack/projects/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/annabel-chen/</loc>
+    <lastmod>2025-02-10T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
     <lastmod>2025-02-10T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/project/clic/</loc>
@@ -967,8 +973,6 @@
     <loc>https://clinicalbrainlab.github.io/author/anthony-hew-joon-kit/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/author/aquila-loh/</loc>
-  </url><url>
-    <loc>https://clinicalbrainlab.github.io/brainhack/</loc>
   </url><url>
     <loc>https://clinicalbrainlab.github.io/categories/</loc>
   </url><url>
