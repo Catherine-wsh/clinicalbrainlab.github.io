@@ -14,9 +14,9 @@
     
     <item>
       <title>Example_Software</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/e_software/</link>
+      <link>https://clinicalbrainlab.github.io/brainhack/example1/</link>
       <pubDate>Tue, 11 Feb 2025 00:00:00 +0100</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/e_software/</guid>
+      <guid>https://clinicalbrainlab.github.io/brainhack/example1/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
 &lt;p&gt;This is an example for Software.&lt;/p&gt;
 &lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
@@ -199,6 +199,14 @@ url_video: &amp;quot;&amp;quot;&lt;/h2&gt;
       <link>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-aging/</link>
       <pubDate>Wed, 26 Jun 2024 00:00:00 +0000</pubDate>
       <guid>https://clinicalbrainlab.github.io/publication/2024_bayesian-inference-aging/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neurochemical Alterations in Bilateral DLPFC after Structure Learning Training in Healthy Adults</title>
+      <link>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</link>
+      <pubDate>Sun, 23 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://clinicalbrainlab.github.io/publication/2024_ohbm_bilateral-dlpfc/</guid>
       <description></description>
     </item>
     
