@@ -13,17 +13,6 @@
     </image>
     
     <item>
-      <title>Example1</title>
-      <link>https://clinicalbrainlab.github.io/brainhack/example1/</link>
-      <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
-      <guid>https://clinicalbrainlab.github.io/brainhack/example1/</guid>
-      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
-&lt;p&gt;This is an example for Software.&lt;/p&gt;
-&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
-</description>
-    </item>
-    
-    <item>
       <title>Centre for Lifelong Learning and Individualised Cognition</title>
       <link>https://clinicalbrainlab.github.io/project/clic/</link>
       <pubDate>Mon, 10 Feb 2025 00:00:00 +0000</pubDate>
@@ -1116,6 +1105,17 @@ Separate electrodes may also be directly attached to the skin (such as above and
 &lt;p&gt;&lt;img src=&#34;https://clinicalbrainlab.github.io/resources/techniques/IMG-20150628-WA0008.jpg&#34; alt=&#34;jpg&#34;&gt;&lt;/p&gt;
 &lt;h2 id=&#34;what-is-eeg-used-for&#34;&gt;What is EEG used for?&lt;/h2&gt;
 &lt;p&gt;At the Clinical Brain Lab NTU, we are using EEG to measure changes in brain activity after cognitive training or during cognitive tasks.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Example for Software</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/example1/</link>
+      <pubDate>Sun, 05 May 2019 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/example1/</guid>
+      <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;
+&lt;p&gt;This is an example for Software.&lt;/p&gt;
+&lt;h2 id=&#34;reference&#34;&gt;Reference&lt;/h2&gt;
 </description>
     </item>
     
