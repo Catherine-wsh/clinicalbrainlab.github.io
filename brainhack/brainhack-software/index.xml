@@ -12,5 +12,14 @@
       <link>https://clinicalbrainlab.github.io/brainhack/brainhack-software/</link>
     </image>
     
+    <item>
+      <title>Example for Student Software</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/brainhack-software/example2/</link>
+      <pubDate>Wed, 12 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/brainhack-software/example2/</guid>
+      <description>&lt;p&gt;Example 2&lt;/p&gt;
+</description>
+    </item>
+    
   </channel>
 </rss>
