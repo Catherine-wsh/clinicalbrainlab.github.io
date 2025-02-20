@@ -72,6 +72,36 @@ Looking for example of project? You can find that from the past Brainhack School
     </item>
     
     <item>
+      <title>Technical Help</title>
+      <link>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</link>
+      <pubDate>Thu, 20 Feb 2025 00:00:00 +0100</pubDate>
+      <guid>https://clinicalbrainlab.github.io/brainhack/technicalhelp/</guid>
+      <description>&lt;h1 id=&#34;ntucool--ee-class&#34;&gt;NTUCOOL &amp;amp; ee-class&lt;/h1&gt;
+&lt;p&gt;We will use local/international Discord servers to post announcements, facilitate discussion, and monitor project progress.&lt;/p&gt;
+&lt;p&gt;
+&lt;a href=&#34;https://cool.ntu.edu.tw/courses/22213&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NTU COOL Technology of Brain Science GIBMS7005&lt;/a&gt;, 
+&lt;a href=&#34;https://cool.ntu.edu.tw/courses/22938&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Neurolinguistics Seminar (LING7430)&lt;/a&gt; and 
+&lt;a href=&#34;https://ncueeclass.ncu.edu.tw/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;NCU ee-class&lt;/a&gt; will be used to log your grades when the Brainkhack school is close.&lt;/p&gt;
+&lt;p&gt;We hope to meet you on Discord, please check [Discord guide]({% link docs/technical/discordguide.md %}).&lt;/p&gt;
+&lt;h1 id=&#34;github-guide&#34;&gt;Github guide&lt;/h1&gt;
+&lt;h2 id=&#34;create-github-account&#34;&gt;Create Github account&lt;/h2&gt;
+&lt;p&gt;Please use the 
+&lt;a href=&#34;https://github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github&lt;/a&gt; official webpage and follow the instruction to signup a account. (It is free!)
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/githubfrontpage.png&#34; alt=&#34;png&#34;&gt;&lt;/p&gt;
+&lt;p&gt;{: .note }
+P.S. If you are a student or teacher, don&amp;rsquo;t forget to join 
+&lt;a href=&#34;https://education.github.com/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github Global Campus&lt;/a&gt; to get some gift from github.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;learn-to-use-github&#34;&gt;Learn to use Github&lt;/h2&gt;
+&lt;p&gt;You can learn 
+&lt;a href=&#34;https://school-brainhack.github.io/modules/git_github&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;how to use github&lt;/a&gt; from one of our learning modules. (It is mandatory.)&lt;/p&gt;
+&lt;h1 id=&#34;windows-installation-guide&#34;&gt;Windows Installation Guide&lt;/h1&gt;
+&lt;p&gt;You can see the detailed guide 
+&lt;a href=&#34;https://brainhackschool-taiwan.github.io/docs/technical/windowssetup.html&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;here&lt;/a&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
       <title>BrainHack School Modules</title>
       <link>https://clinicalbrainlab.github.io/brainhack/modules/</link>
       <pubDate>Mon, 17 Feb 2025 00:00:00 +0100</pubDate>
