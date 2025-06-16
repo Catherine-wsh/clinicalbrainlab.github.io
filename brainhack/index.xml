@@ -140,13 +140,16 @@ git push -u origin main
 &lt;ol&gt;
 &lt;li&gt;
 &lt;p&gt;Go to the 
-&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;. Click the &lt;code&gt;Fork&lt;/code&gt; on the page to fork this repository to your account.&lt;/p&gt;
+&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;. Click the &lt;code&gt;Fork&lt;/code&gt; on the page to fork this repository to your account.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm1.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;Leave everything as defaults, and click &lt;code&gt;create fork&lt;/code&gt;.&lt;/p&gt;
+&lt;p&gt;Leave everything as defaults, and click &lt;code&gt;create fork&lt;/code&gt;.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm2.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;You should see that you forked the repository to your account.&lt;/p&gt;
+&lt;p&gt;You should see that you forked the repository to your account.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm3.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Clone the forked repository to your local drive. Here, we demonstrated how to clone the repository to &lt;code&gt;Documents&lt;/code&gt; folder.&lt;/p&gt;
@@ -157,11 +160,12 @@ cd school-brainhack.github.io
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;In the school-brainhack.github.io folder, navigate to school-brainhack.github.io/content/en/project&lt;/p&gt;
+&lt;p&gt;In the school-brainhack.github.io folder, navigate to school-brainhack.github.io/content/en/project
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm4.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Create a folder for your project. The folder name should not have a space! You should replace any spaces with _. Then, copy your README.md (and your figure files if you embedded them in README) to the folder. Importantly, please &lt;strong&gt;rename the README.md to index.md.&lt;/strong&gt;
-&lt;img src=&#34;../../assets/submission/subm5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm5.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Stage, commit and push to your forked repository.&lt;/p&gt;
@@ -173,11 +177,13 @@ git push -u origin main
 &lt;/code&gt;&lt;/pre&gt;
 &lt;/li&gt;
 &lt;li&gt;
-&lt;p&gt;You should see that you commit the changes for your project on the forked repository.&lt;/p&gt;
+&lt;p&gt;You should see that you commit the changes for your project on the forked repository.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm6.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;Then, get back to the original 
-&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;.  We will send a pull request. (step 1:) First, click the pull request, (step 2:) then click an option called compare across forks, (step 3:) select your &lt;USERNAME&gt;/school-brainhack.github.io.git as the head repository. (step 4:) Check all the commits are correct. (step 5:) Then the final step is click the create pull request and confirm the pull request.&lt;/p&gt;
+&lt;a href=&#34;https://github.com/school-brainhack/school-brainhack.github.io&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Github repository for Brainhack School website&lt;/a&gt;.  We will send a pull request. (step 1:) First, click the pull request, (step 2:) then click an option called compare across forks, (step 3:) select your &lt;USERNAME&gt;/school-brainhack.github.io.git as the head repository. (step 4:) Check all the commits are correct. (step 5:) Then the final step is click the create pull request and confirm the pull request.
+&lt;img src=&#34;https://clinicalbrainlab.github.io/brainhack/submfigures/subm7.png&#34; alt=&#34;&#34;&gt;&lt;/p&gt;
 &lt;/li&gt;
 &lt;li&gt;
 &lt;p&gt;We will review your pull request, and some revisions might be needed. Please be patient and help us to revise your request accordingly.&lt;/p&gt;
